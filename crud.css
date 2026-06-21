@@ -1,0 +1,19 @@
+textarea{
+    resize: none;
+}
+
+.article-item{
+    transition: 0.3s;
+}
+
+.article-item:hover{
+    transform: translateY(-5px);
+}
+
+.article-title{
+    font-weight: bold;
+}
+
+.article-content{
+    color: #666;
+}
