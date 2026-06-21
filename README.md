@@ -90,11 +90,13 @@ Users can permanently remove articles from Local Storage.
 
 ### Home Page
 
-(Add Screenshot Here)
+<img width="1252" height="911" alt="image" src="https://github.com/user-attachments/assets/34274b06-9fd3-4c21-821a-c4c12deb887c" />
+
 
 ### Edit Modal
 
-(Add Screenshot Here)
+<img width="485" height="386" alt="image" src="https://github.com/user-attachments/assets/5f2b1f0f-a3ad-4bfb-97d1-b910e3edb610" />
+
 
 ---
 
