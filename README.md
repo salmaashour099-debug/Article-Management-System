@@ -4,8 +4,6 @@ A responsive CRUD (Create, Read, Update, Delete) web application that allows use
 
 ## 🚀 Live Demo
 
-Add your GitHub Pages link here:
-
 [https://salmaashour099-debug.github.io/article-management-system/](https://salmaashour099-debug.github.io/Article-Management-System/)
 
 ---
